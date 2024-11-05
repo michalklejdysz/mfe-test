@@ -6463,20 +6463,8 @@ video {
 .ar-p-6 {
   padding: 1.5rem;
 }
-.ar-px-4 {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-.ar-py-2 {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-}
 .ar-text-center {
   text-align: center;
-}
-.ar-text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
 }
 .ar-font-semibold {
   font-weight: 600;
